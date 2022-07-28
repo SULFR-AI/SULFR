@@ -1,5 +1,5 @@
 # SULFR
-Self-Universal Learning by Facet Recognition (SULFR) is self-learning and explainable AI that mimics bio-intelligence and intends to achieve the real-time performance of AI models.
+Self-Universal Learning by Facet Recognition (SULFR) is self-learning and explainable AI that mimics bio-intelligence and intends to achieve real-time performance of AI models.
 
 # Why SULFR?
 Self-Universal Learning by Facet Recognition (from now on, SULFR) is a self-learning AI like you and me that can decide on real-time decisions based on data patterns. Real-time performance is one of the critical initial goals. There is still much work in AI research, especially on explainable AI. SULFR will be an open-source, crowd-sourced framework that can perform any human or animal bio-intelligence tasks.
