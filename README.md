@@ -5,8 +5,8 @@ Self-Universal Learning by Facet Recognition (SULFR) is a self-learning and expl
 Self-Universal Learning by Facet Recognition (from now on, SULFR) is a self-learning AI like you and me that can decide on real-time decisions based on data patterns. Real-time performance is one of the critical initial goals. There is still much work in AI research, especially on explainable AI. SULFR will be an open-source, crowd-sourced framework that can perform any human or animal bio-intelligence tasks.
 
 # Why SULFR framework will work?
-SULFR is based on the DARTH framework, my Capstone project at SMU for my Data Science master's degree, developed with Apurv Mittal and Tai Chowdhury. An eminent and renowned expert, Dr. Daniel Engels, advised DARTH and Harsha Komanapalli.
-DARTH framework is a set of models that can detect Phishing Emails using a multi-faceted, composite feature to identify phishing emails with great accuracy and have more room to improve, though DARTH achieved 99.98% accuracy. 
+SULFR is based on the DARTH framework, my Capstone project at SMU for my Data Science master's degree, developed with Apurv Mittal and Tai Chowdhury. Adviced by eminent and renowned AI and cyber-security expert, Dr. Daniel Engels,  and Harsha Komanapalli.
+DARTH framework is a set of models that can detect Phishing Emails using a multi-faceted (composite features) approach to identify phishing emails with great accuracy and have more room to improve, though DARTH achieved 99.98% accuracy. 
 DARTH framework doesn't rely on single or just multiple neural networks to detect phishing; it uses a novel approach of splitting the emails into its elements and gathering information about phishing in every facet of email elements. This novel approach consistently outperformed every other model, with enough room to spare.
 SULFR will build upon the DARTH framework to be a generic explainable AI that can be used in any problem domain.
 
