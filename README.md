@@ -28,3 +28,5 @@ The scope of this project is enormous for even a single organization to create a
 # Who can contribute?
 Currently, until the first release, it will be by me, Ravi Sivaraman. Further along, I will publish a set of APIs that other experts in those fields can implement to augment the SULFR framework.
 
+# What license?
+Apache License 2.0 
